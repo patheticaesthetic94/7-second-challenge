@@ -1,9 +1,10 @@
 <p align="center">
     <picture>
-      <img src="images/logo.png" alt="The 7 Second Challenge" width="500">
+      <img src="images/logo.png" alt="The 7 Second Challenge" width="400">
     </picture>
 </p>
-# 7 Second Challenge
+
+# The 7 Second Challenge
 
 A native Android recreation of the 2015–2018 **7 Second Challenge** party game
 (originally by Dan & Phil / Mind Candy). Pick a challenge, film your attempt on
