@@ -5,9 +5,6 @@ A native Android recreation of the 2015–2018 **7 Second Challenge** party game
 camera against a 7-second countdown, and the app composes a shareable highlight
 clip (title card → footage with a burned-in countdown → freeze-frame verdict).
 
-**Developer:** pathetic.aesthetic
-**Version:** Beta 0.0.25
-
 > This repo currently distributes the built app only — the source isn't published yet.
 
 ## Install
