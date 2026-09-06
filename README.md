@@ -15,7 +15,7 @@ clip (title card → footage with a burned-in countdown → freeze-frame verdict
 
 ## Install
 
-1. Download **[`7-second-challenge-v0.0.25-beta.apk`](7-second-challenge-v0.0.25-beta.apk)**
+1. Download **[`7-second-challenge-v0.0.26-beta.apk`](7-second-challenge-v0.0.26-beta.apk)**
    (or grab it from [Releases](../../releases)).
 2. On your phone, allow installing apps from your browser / files app
    (*Settings → Apps → Special access → Install unknown apps*).
@@ -24,7 +24,7 @@ clip (title card → footage with a burned-in countdown → freeze-frame verdict
 
 - **Requires:** Android 8.0 (API 26) or newer.
 - **Size:** ~13 MB.
-- `SHA-256`: `08ad828f4d5d6c7605d3bf6f6ccbea7708061e8b4b1b5ef36928a39fc0a20244`
+- `SHA-256`: `f97fc5fe7eee75bcfde9e2b6fbbd2e3463bd6b818fed5fc9a109426a52935541`
 
 ## Status
 
