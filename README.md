@@ -1,3 +1,8 @@
+<p align="center">
+    <picture>
+      <img src="images/logo.png" alt="The 7 Second Challenge" width="500">
+    </picture>
+</p>
 # 7 Second Challenge
 
 A native Android recreation of the 2015–2018 **7 Second Challenge** party game
